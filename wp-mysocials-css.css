@@ -1,0 +1,22 @@
+/* Styles css pour le plugin Socials Plugin */
+.wp-socials {
+    width:100%;
+}
+
+.wp-socials textarea,
+.wp-socials input[type="text"],
+.wp-socials input[type="password"],
+.wp-socials input[type="file"],
+.wp-socials input[type="button"],
+.wp-socials input[type="submit"],
+.wp-socials input[type="reset"],
+.wp-socials select { float:right;}
+
+#wp-socials-fb-like { float:left;padding-right:10px;width:175px; }
+#wp-socials-fb-faces { padding-top:5px;padding-right:10px; }
+#wp-socials-general-btn { margin-top:8px; }
+#wp-socials-fb-share { float:left; }
+#wp-socials-twitter { float:left;padding:0px 3px; }
+#wp-socials-plusone { float:left;padding:0px 3px; }
+#wp-socials-addthis { float:left;margin-top:4px; }
+.clear { float:none !important;float:none;clear:both;margin-bottom:10px; }
